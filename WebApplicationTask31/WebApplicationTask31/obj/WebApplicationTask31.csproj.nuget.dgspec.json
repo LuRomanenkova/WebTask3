@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ludmila/RiderProjects/WebApplicationTask31/WebApplicationTask31/WebApplicationTask31.csproj": {}
+  },
+  "projects": {
+    "/home/ludmila/RiderProjects/WebApplicationTask31/WebApplicationTask31/WebApplicationTask31.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ludmila/RiderProjects/WebApplicationTask31/WebApplicationTask31/WebApplicationTask31.csproj",
+        "projectName": "WebApplicationTask31",
+        "projectPath": "/home/ludmila/RiderProjects/WebApplicationTask31/WebApplicationTask31/WebApplicationTask31.csproj",
+        "packagesPath": "/home/ludmila/.nuget/packages/",
+        "outputPath": "/home/ludmila/RiderProjects/WebApplicationTask31/WebApplicationTask31/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/ludmila/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp5.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
